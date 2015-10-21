@@ -1,11 +1,16 @@
 **Usage:**
+
 First code $f(x, y) = - \dfrac{0.9y}{1 + 2x}$ in <code>f.m</code>.
 
 <code>
     >> Euler_Advanced
+
     Type the interval for x: [0 0.1]
+
     Type the step length h: 0.02
+
     Type the initial condition y(1): 1
+    
     
     x = 0.000000, y(1) = 1.000000
     x = 0.020000, y(2) = 0.982502

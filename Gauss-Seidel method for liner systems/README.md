@@ -1,10 +1,14 @@
 Find the root for linear system $\bold{A}x = b$
+
 **Usage:**
 
 <code>
     >> A=[10 -1 -2; -1 10 -2; -1 -1 5];
+
     >> b=[7.2; 8.3; 4.2];
+
     >> GaussSeidel_f(A,b)
+    
 
     ans = 
 
