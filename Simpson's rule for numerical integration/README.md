@@ -1,4 +1,4 @@
-**Usage Demo:**
+**Usage:**
 
 First code $\int_0^1 \dfrac{\sin(x)}{x} dx$ in <code>f.m</code>>.
 
