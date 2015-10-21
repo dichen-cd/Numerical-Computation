@@ -1,6 +1,6 @@
 **Usage Demo:**
 
-First code $\int_0^1 \dfrac{\sin(x)}{x} dx$ in <code>f.m</code>>.
+First code $\int_0^1 \dfrac{\sin(x)}{x} dx$ in <cod>f.m</code>>.
 
 <code>
     >> Romberg
