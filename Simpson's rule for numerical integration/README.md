@@ -2,7 +2,7 @@
 
 First code $\int_0^1 \dfrac{\sin(x)}{x} dx$ in <code>f.m</code>>.
 
-<code>
+```
     >> Simpson
 
     Type the lower bound(a): 0
@@ -15,4 +15,4 @@ First code $\int_0^1 \dfrac{\sin(x)}{x} dx$ in <code>f.m</code>>.
     Sn = 
 
         0.946083310888472
-</code>
+```

@@ -2,7 +2,7 @@
 
 First code $f(x, y) = - \dfrac{0.9y}{1 + 2x}$ in <code>f.m</code>.
 
-<code>
+```
     >> Runge_Kutta
 
     Type the interval for x: [0 0.1]
@@ -18,4 +18,4 @@ First code $f(x, y) = - \dfrac{0.9y}{1 + 2x}$ in <code>f.m</code>.
     x = 0.060000, y(4) = 0.950281
     x = 0.080000, y(5) = 0.935393
     x = 0.100000, y(6) = 0.921231
-</code>
+```

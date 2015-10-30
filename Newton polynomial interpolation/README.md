@@ -1,6 +1,6 @@
 **Usage:**
 
-<code>
+```
     >> Newton
 
     Enter x vector in the table: [0 1 2 3]
@@ -13,4 +13,4 @@
     L = 
 
         4.060416800000000
-</code>
+```

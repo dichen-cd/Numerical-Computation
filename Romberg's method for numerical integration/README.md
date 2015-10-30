@@ -2,7 +2,7 @@
 
 First code $\int_0^1 \dfrac{\sin(x)}{x} dx$ in <cod>f.m</code>>.
 
-<code>
+```
     >> Romberg
 
     Type the lower bound(a): 0
@@ -15,4 +15,4 @@ First code $\int_0^1 \dfrac{\sin(x)}{x} dx$ in <cod>f.m</code>>.
     R = 
 
         0.946083070387223
-</code>
+```
